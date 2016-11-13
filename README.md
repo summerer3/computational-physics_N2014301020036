@@ -1,28 +1,28 @@
 # computational-physics_N2014301020036
-[✓] [Exercise_02:NAME](https://github.com/summerer3/computational-physics_N2014301020036/blob/master/LSL.py)
+[✓] [Exercise_02](https://github.com/summerer3/computational-physics_N2014301020036/blob/master/LSL.py)
 
-[✓] [Exercise_03:moving name,,,](https://github.com/summerer3/computational-physics_N2014301020036/blob/master/moving%20LSL.py)
+[✓] [Exercise_03](https://github.com/summerer3/computational-physics_N2014301020036/blob/master/moving%20LSL.py)
 
-[ ] [Exercise_04:Chapter 1 problem 1.5:The decay of two kinds of particles]()
+[ ] [Exercise_04]()
 
-[ ] [Exercise_05:Chapter 1 problem 1.6:Population growth]()
+[ ] [Exercise_05]()
 
-[ ] [Exercise_06:Chapter 2 problem 2.9 & 2.10:The cannon]()
+[ ] [Exercise_06]()
 
-[ ] [Exercise_07:Chapter 2 problem 2.19:The spin of baseball and Visual motion of baseball]()
+[ ] [Exercise_07]()
 
-[ ] [Exercise_08:Chapter 3 problem 3.4:Non-linear oscillator]()
+[ ] [Exercise_08]()
 
-[ ] [Exercise_09:Chapter 3 problem 3.16:Strange attractor]()
+[ ] [Exercise_09]()
 
-[ ] [Exercise_10:Chapter 3 problem 3.31:Billiard ball on diverse table]()
+[ ] [Exercise_10]()
 
-[ ] [Exercise_11:Chapter 4 problem 4.11:The percession of Mercury]()
+[ ] [Exercise_11]()
 
-[ ] [Exercise_12:Chapter 4 problem 4.18:The Kirkwood Gap]()
+[ ] [Exercise_12]()
 
-[ ] [Exercise_13:Chapter 5 problem 5.7:The Jacobi method v.s. The SOR algorithm]()
+[ ] [Exercise_13]()
 
-[ ] [Exercise_14:Chapter 6 problem 6.15:The realistic string problem]()
+[ ] [Exercise_14]()
 
 [ ] [Final Project:用轨道能量分析Kirkwood Gap的缝宽]()
