@@ -7,4 +7,4 @@
 
 [ ] [Exercise_05]
 
-[✓] [期末作业](https://www.zybuluo.com/mdeditor#622228-full-reader)
+[✓] [期末作业](https://www.zybuluo.com/summerer3/note/622228)
